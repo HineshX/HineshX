@@ -7,6 +7,14 @@
 - :sweat_smile: I'm a intermediate in coding :penguin:
 - :monocle_face: I'm interested in coding, sleeping, and gaming
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages and Tools Experience
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+  &nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+&nbsp;
+
+<br>
+
 <!--
 **HineshX/HineshX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
