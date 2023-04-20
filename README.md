@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋,
+
+- :credit_card: My full name is **Hinesh Tailor** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :school: I'm currently a Data Engineer Consultant at **Xander Talent**
+- :books: My major is **Mathematics**
+- :earth_asia: I'm living now in **London, England**
+- :sweat_smile: I'm a intermediate in coding :penguin:
+- :monocle_face: I'm interested in coding, sleeping, and gaming
 
 <!--
 **HineshX/HineshX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
