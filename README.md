@@ -5,9 +5,9 @@
 - :books: Studied: **Mathematics** at Kings College London
 - 🌍 From **London, England**
 - :sweat_smile: Intermediate in coding :penguin:
-- 🤟 Interested in coding, sleeping, and gaming
+- 🤟 Interested in coding, running, and gaming
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages and Tools
+Languages and Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height ="25" />
