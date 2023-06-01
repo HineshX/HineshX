@@ -7,6 +7,8 @@
 - :sweat_smile: Intermediate in coding :penguin:
 - 🤟 Interested in coding, running, and gaming
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 Languages and Tools
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25">
